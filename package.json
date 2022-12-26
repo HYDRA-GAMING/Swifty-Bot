@@ -1,0 +1,29 @@
+{
+  "name": "swiftyeditzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "swiftyedz#2924",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.4.0",
+    "axios": "^1.2.1",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.20",
+    "discord-jokes": "^4.0.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "got": "^12.5.3",
+    "math-help": "^1.3.1",
+    "mongoose": "^6.8.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.0",
+    "os": "^0.1.2",
+    "random-jokes-api": "^1.5.9",
+    "requests": "^0.3.0"
+  }
+}
